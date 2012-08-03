@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="v1\Api.cs" />
+    <Compile Include="v1\Language.cs" />
     <Compile Include="v1\SubtitleLine.cs" />
     <Compile Include="WebHelper.cs" />
   </ItemGroup>
